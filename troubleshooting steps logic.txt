@@ -1,0 +1,27 @@
+1. Restart computer
+2. troubleshoot printer
+	a. detect if printer is  connected (ping printer via usb)
+	b. detect if dymo is installed 
+	c. detect if dymo is connected
+	d. detect if java version installed
+	e. detect if java needs to be repaired
+	f. re-install java version
+	g. detect QZ running
+	h. detect if QZ Tray is installed
+	i. Repair QZ Tray
+	j. re-install QZ Tray
+	k. restart machine
+	l. if still not printing, map printing to network printer???
+		- have computer setup as mapped printer
+3. troubleshoot Touchscreen
+	a. set zoom to website to 90%
+	b. click cursor in two random places to disable long click from user
+	c. detect touchscreen usb cable connected
+	d. set zoom to website to 90%
+	e. detect resolution to see if Resolution matches other touchscreens
+4. Send email to support
+	a. client enters computer information into text field
+	b. client clicks on computer problem into dropdown menu
+	c. client can fill out optional Notes field
+	d. email is drafted and notification sent to pre-determined Church workers emails
+	e. Windows updates are checked and ran
